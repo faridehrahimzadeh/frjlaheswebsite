@@ -133,6 +133,14 @@ i.fa.fa-facebook-official {
     content: "\f230";
     padding-left: 24px;
 }
+.fa fa-yelp-official {
+  font-size: 39px;
+
+}
+.fa fa-yelp-official:before {
+  content: "\f230";
+  padding-left: 24px;
+}
 
 @media screen and (min-width:768px) {
     .brand {
